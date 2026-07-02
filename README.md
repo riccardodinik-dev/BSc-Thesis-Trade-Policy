@@ -59,16 +59,6 @@ The dissertation evaluates the potential macroeconomic impact of alternative U.S
 
 ---
 
-## Repository Structure
-
-```
-.
-├── Thesis.pdf
-└── README.md
-```
-
----
-
 ## Software
 
 - Stata
